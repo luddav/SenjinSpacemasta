@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BackgroundLight update:]:BackgroundLight.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BackgroundLight draw]:BackgroundLight.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene init]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.contentSize.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Background update:]:Background.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
